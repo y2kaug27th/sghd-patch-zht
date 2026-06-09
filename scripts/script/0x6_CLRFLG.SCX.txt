@@ -1,30 +1,30 @@
 
-[color index="A01F0000"]【因果关系的溶解】[color index="800000"] 通关
+[color index="A01F0000"]【因果關係的溶解】[color index="800000"] 通關
 
 
-[color index="A01F0000"]【纯洁透明的星尘】[color index="800000"] 通关
+[color index="A01F0000"]【純潔透明的星塵】[color index="800000"] 通關
 
 
-[color index="A01F0000"]【背德与重生的连接】[color index="800000"] 通关
+[color index="A01F0000"]【背德與重生的連接】[color index="800000"] 通關
 
 
-[color index="A01F0000"]【形同陌路的生疏】[color index="800000"] 通关
+[color index="A01F0000"]【形同陌路的生疏】[color index="800000"] 通關
 
 
-[color index="A01F0000"]【不可逆转的重启】[color index="800000"] 通关
+[color index="A01F0000"]【不可逆轉的重啟】[color index="800000"] 通關
 
 
-[color index="A01F0000"]【境界面上的命运石之门】[color index="800000"] 通关
+[color index="A01F0000"]【境界面上的命運石之門】[color index="800000"] 通關
 
 
 [color index="A01F0000"]CLEAR_LIST
-[color index="800000"]已添加到“EXTRA”菜单中。
+[color index="800000"]已添加到“EXTRA”菜單中。
 
 [color index="A01F0000"]CG_LIBRARY
-[color index="800000"]已添加到“EXTRA”菜单中。
+[color index="800000"]已添加到“EXTRA”菜單中。
 
 [color index="A01F0000"]MUSIC_LIBRARY
-[color index="800000"]已添加到“EXTRA”菜单中。
+[color index="800000"]已添加到“EXTRA”菜單中。
 
 [color index="A01F0000"]MOVIE_LIBRARY
-[color index="800000"]已添加到“EXTRA”菜单中。
+[color index="800000"]已添加到“EXTRA”菜單中。

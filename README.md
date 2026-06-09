@@ -1,25 +1,27 @@
-# S;G HD Patch 简中计划
-原项目：https://github.com/CommitteeOfZero/sghd-patch
+# S;G HD Patch 繁中計畫
+原項目：https://github.com/mos9527/sghd-patch-zhs
 
 Features
 ---
-- 文字描边
+- 繁中文本
+- 文字描邊
 - 多行分行
 
 Usage
 ---
-- 从 [Releases](https://github.com/mos9527/zero-patch-zhs/releases) 中下载打包后补丁
-- 解压到游戏根目录
+- 確保已安裝**英文版**遊戲，並套用 [STEINS;GATE Steam Patch](https://github.com/CommitteeOfZero/sghd-patch/releases)
+- 從 [Releases](https://github.com/y2kaug27th/sghd-patch-zht/releases) 中下載打包後修正檔
+- 解壓縮至遊戲根目錄
 - Have fun!
 
 Build
 ---
-- Clone 本 Repo
-- 运行 `build.ps1` 即可
+- Clone 此 Repo
+- 運行 `build.ps1` 即可
 
 Tools
 ---
-绝大部分工具的初始工作已由 [CommitteeOfZero](https://github.com/CommitteeOfZero) 完成；该项目对其做了一些修改，Fork 链接如下：
+絕大部分工具的初始工作已由 [CommitteeOfZero](https://github.com/CommitteeOfZero) 完成；該項目對其做了一些修改，Fork 連結如下：
 
 https://github.com/mos9527/LanguageBarrier
 
@@ -28,7 +30,3 @@ https://github.com/mos9527/mgsfontgen-dx
 https://github.com/mos9527/sg0-tools
 
 https://github.com/mos9527/sc3tools
-
-*~~很惭愧，只是做了点微小的工作（）~~*
-
-

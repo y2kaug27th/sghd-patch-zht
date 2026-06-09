@@ -6,6 +6,7 @@ if ($args -notcontains '--no-update') {
     # sc3tools
     Invoke-WebRequest -Uri "https://github.com/mos9527/sc3tools/releases/download/0.0.8/Release.zip" -OutFile .\.bin\sc3tools.zip
     Expand-Archive -Path .\.bin\sc3tools.zip -DestinationPath .\.bin\sc3tools    
+    Copy-Item -Path ".\charset.utf8" -Destination ".\.bin\sc3tools\resources\sghd\charset.utf8" -Force
     # mpk
     Invoke-WebRequest -Uri "https://github.com/mos9527/mages-tools/releases/download/latest/mpk.exe" -OutFile .\.bin\mpk.exe
     # LanguageBarrier
